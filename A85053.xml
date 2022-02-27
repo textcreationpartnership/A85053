@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warrant of the Lord General Fairfax to the Marshall Generall of the Army, to put in execution the former ordinances &amp; orders of Parliament, and act of Common Councell, concerning the regulating of printing, and dispersing of scandalous pamphlets. Whereunto is annexed the said ordinances and orders.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85053</idno>
+            <idno type="STC">Wing F253</idno>
+            <idno type="STC">Thomason E538_1</idno>
+            <idno type="STC">ESTC R205999</idno>
+            <idno type="EEBO-CITATION">99865208</idno>
+            <idno type="PROQUEST">99865208</idno>
+            <idno type="VID">117445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117445)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warrant of the Lord General Fairfax to the Marshall Generall of the Army, to put in execution the former ordinances &amp; orders of Parliament, and act of Common Councell, concerning the regulating of printing, and dispersing of scandalous pamphlets. Whereunto is annexed the said ordinances and orders.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Lawrence, Richard, d. 1684.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, for John Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIX.[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 11th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of the press --  England --  Early works to 1800.</term>
+               <term>Censorship --  England --  Sources --  Early works to 1800.</term>
+               <term>Press law --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117445:1" rendition="simple:additions"/>
+            <p>A WARRANT OF THE Lord General Fairfax TO THE <hi>Marſhall Generall of the Army,</hi> To put in Execution the former Ordinances &amp; Orders OF PARLIAMENT, AND <hi>Act of Common Councell,</hi> Concerning the Regulating of Printing, and diſperſing of ſcan<g ref="char:EOLhyphen"/>dalous Pamphlets.</p>
+            <p>
+               <hi>Whereunto is annexed the ſaid Ordinances and Orders.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> for JOHN PARTRIDGE. MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="warrant">
+            <pb facs="tcp:117445:2"/>
+            <pb n="3" facs="tcp:117445:2"/>
+            <head>A Coppy of the WARRANT OF THE Lord General Fairfax TO THE <hi>Marſhal General of the Army.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Y Vertue of an Order of Parliament Dated 5. <hi>January</hi> 1648. deſiring me to Command the Marſhall Generall of the Army to put in Execution the Ordinances of Parliament con<g ref="char:EOLhyphen"/>cerning ſcandal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us and unlicenced Pamphlets; and having received a Petition from the Ma<g ref="char:EOLhyphen"/>ſters and Wardens of the Company of <hi>Stationers,</hi> deſiring the putting in execution all Ordinances of Parliament concerning the ſame. Theſe are therefore to require and authorize Cap <hi>Richard Lawrence,</hi> Marſhal of the Army General under my Command, his Deputy and Deputies to put the Ordinance of 28. <hi>Sept.</hi> 1647 for ſuppreſſing ſcandalous Pamphlets into ſpeedy and effectual execution. And likewiſe another Order of the Lords and Commons, dated 14. <hi>June</hi> 1643. for Regulating of Printing, and
+<pb n="4" facs="tcp:117445:3"/> ſuppreſſing the great Abuſes and frequent Diſorders therein; together with an Act of Common Councel, dated 9. <hi>October</hi> 1643. for prohibiting of all perſons whatſoever from crying or putting to Sale about the ſtreets within this City and Liberties, any Pamphlets, Books or Papers whatſoever by way of Hawk<g ref="char:EOLhyphen"/>ing, and for puniſhing of the offendors therein. And if any per<g ref="char:EOLhyphen"/>ſon or perſons have offended, or ſhall hereafter offend therein, contrary to the ſaid Ordinances, you are hereby Required and Authorized to take them into cuſtody, and inflict upon them ſuch corporal puniſhments, and levy ſuch penalties upon them, for each offence, as is therein mentioned, and not diſcharge them till they have made full payment thereof, and received the ſaid puniſhments accordingly. You are further Authorized and Required from time to time, to make diligent ſearch in all places wherein you ſhall think meet, for all unlicenſed Printing Preſſes, any way imployed in Printing, Scandalous and unlicenſed Papers, Pamphlets, Books, Ballads, or any Copies of Books whatſoever, either belonging to the Company of <hi>Stationers,</hi> or any Member thereof, without their approbation and conſents, or otherwiſe; and to ſeize and carry away ſuch Printing Preſſes, Letters, toge<g ref="char:EOLhyphen"/>ther with the Nut, Spindle, and other materials, of every ſuch irregular Printer which you ſhall find ſo miſ-imployed, unto the <hi>Stationers Hall, London,</hi> there to be defaced, and made unſer<g ref="char:EOLhyphen"/>viceable, according to Ordinance of Parliament, in that behalf: And likewiſe to make diligent ſearch in all ſuſpected Printing Houſes, Ware-houſes, and other Shops and places whatſoever, for ſuch unlicenſed Books, Papers, Treatiſes, Ballads, or other ſheet or ſheets of News whatſoever not entered, nor ſigned with the true name of the Printer, being printed or reprinted: And likewiſe any Book or Books, or part of any Book or Books heretofore allowed, and granted to the Company of <hi>Stationers</hi> for their relief and maintenance of their poor, by ſuch as have no lawful Intereſt to them, contrary to the ſaid Ordinances; and to carry them to <hi>Stasioners Hall,</hi> according to the ſaid Ordinances; and in caſe of oppoſition, to break open, according to the ſaid Ordinances, all doors and locks, and to apprehend all perſons ſo
+<pb n="5" facs="tcp:117445:3"/> oppoſing, and take them into cuſtody, till they have given ſatisfa<g ref="char:EOLhyphen"/>ction therein. And you are here Authorized, to diſpoſe of one moity of the Fine paid, by vertue of the ſaid Ordinances, to the perſon or perſons apprehending the ſaid offendors, and the other moity thereof to the poor of the liberty of the Pariſh where the offence is committed, according to the ſaid Ordinances, and the oath of one credible witneſs taken before any Juſtice of Peace, or Maſter of Chancery, ſhall be a ſufficient conviction of any offen<g ref="char:EOLhyphen"/>dor in the caſes mentioned in the ſaid Ordinances. The ſame be<g ref="char:EOLhyphen"/>ing produced and made good to the Iudg Advocate of the Ar<g ref="char:EOLhyphen"/>my: and all Officers and Soldiers of the Army under my Com<g ref="char:EOLhyphen"/>mand, and all Mayors, Sheriffs, Conſtables, the Maſter and War<g ref="char:EOLhyphen"/>den of the Company of <hi>Stationers,</hi> and Mr <hi>Mabbot,</hi> (who, by Ordinance of Parliament, is appointed Licenſer of all Papers, Pamphlets, and other Books of News,) and all other perſons, ap<g ref="char:EOLhyphen"/>pointed by the ſaid Ordinance of 14. <hi>June</hi> 1643. are hereby re<g ref="char:EOLhyphen"/>quired to be ayding and aſsiſting to you and your Deputies, in the execution of the ſaid Ordinances, and Act of Common Councel, as they will anſwer the contrary.</p>
+            <closer>
+               <dateline>Given under my Hand and Seal <date>this ninth of <hi>January</hi> 1648.</date>
+               </dateline>
+               <signed>T. Fairfax.</signed>
+            </closer>
+            <trailer>
+               <hi>To Capt.</hi> Richard Lawrence <hi>Marſhall Generall of the Army under my Com<g ref="char:EOLhyphen"/>mand.</hi>
+            </trailer>
+         </div>
+         <div type="ordinance">
+            <pb n="6" facs="tcp:117445:4"/>
+            <head>AN ORDINANCE OF THE <hi>LORDS</hi> &amp; <hi>COMMONS</hi> Aſſembled in PARLIAMENT, Againſt <hi>
+                  <g ref="char:V">Ʋ</g>nlicenſed or Scandalous Pamphlets,</hi> AND For the better Regulating of PRINTING.</head>
+            <p>THe Lords and Commons in Parliament aſſembled, ta<g ref="char:EOLhyphen"/>king notice of the many Seditious, Falſe and Scanda<g ref="char:EOLhyphen"/>lous Papers and Pamphlets dayly printed and publiſh<g ref="char:EOLhyphen"/>ed in and about the Cities of <hi>London</hi> and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and thence diſperſed into all parts of this Realm, and other parts beyond the Seas, to the great abuſe and prejudice of the People, and inſufferable reproach of the proceedings of the Par<g ref="char:EOLhyphen"/>liament and their Army; for the better ſuppreſſion thereof, and prevention of the like inconveniences in time to come, do Order and Ordain, and be it Ordered and Ordained by the ſaid Lords and Commons, That what perſon ſoever ſhall Make, Write, Print, Publiſh, Sell or Utter, or cauſe to be Made, Writ<g ref="char:EOLhyphen"/>ten, Printed, Publiſhed, Sold or Uttered, any Book, Pamphlet, Treatiſe, Ballad, Libel, Sheet or Sheets of News whatſoever, (ex<g ref="char:EOLhyphen"/>cept the ſame be Licenſed by both or either Houſe of Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="7" facs="tcp:117445:4"/> or by ſuch perſon or perſons as ſhall be thereunto Autho<g ref="char:EOLhyphen"/>rized by one or both Houſes of Parliament,) with the Name of the Author, Printer and Licenſer thereunto prefixed, ſhall for e<g ref="char:EOLhyphen"/>very ſuch Offence, ſuffer, pay and incur the Puniſhment, Fine and Penally hereafter mentioned; that is to ſay, The Maker, Writer or Compoſer of any ſuch unlicenſed Book, Pamphlet, Treatiſe, Ballad, Libel, Sheet or Sheets of News, ſhall forfeit and pay forty ſhillings, or be Impriſoned in the Common Goal for the County or Liberty where the Offence is commited, or the Offendor ſhall be found, until he ſhall pay the ſame, ſo that the ſaid Impri<g ref="char:EOLhyphen"/>ſonment exceed not forty days; The Printer to forfeit and pay twenty ſhillings, and ſuffer the like Impriſonment, until he pay the ſame, the ſaid Impriſoment not exceeding twenty days, and likewiſe to have his Preſs and Implements of Imprinting ſeized and broken in pieces; The Bookſeller or Stationer to forfeit and pay ten ſhillings, or be Impriſoned in like manner until he pay the ſame, the Impriſonment not exceeding ten days; and the Hawker, Pedler or Ballad-ſinger to forfeit and loſe all his Books, Pamphlets and printing Papers expoſed to ſale, and alſo to be whipt as a Common Rogue in the Liberty or Pariſh where the ſaid Offender ſhall be apprehended, or the Offence committed.</p>
+            <p>And it is further Ordained by the ſaid Lords and Commons, That the ſeveral and reſpective Members of the Committees for the <hi>Militia</hi> in <hi>London, Middleſex</hi> and <hi>Surrey,</hi> and all Majors and other head-Officers of Corporations, and all Iuſtices of the Peace of the ſeveral Counties, Cities and Liberties within this Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> and every of them in their reſpective Liberties and Juriſdictions, be hereby authorized and required to put this Ordinance in execution; and all Conſtables; Headboroughs, and other Officers and Mini<g ref="char:EOLhyphen"/>ſters are hereby authorized and required, together with ſuch aſſiſtants as they ſhall call unto them, to enter into any Shop or Houſe where they ſhall be informed, or have good cauſe to ſuſ<g ref="char:EOLhyphen"/>pect any ſuch unlicenſed Pamphlets and Papers are printed, ſold or uttered, and to take and ſeize the ſame, and likewiſe all Preſ<g ref="char:EOLhyphen"/>ſes and Implements of printing, and to bring them, together
+<pb n="8" facs="tcp:117445:5"/> with the Offenders, and all other Offenders againſt this Ordi<g ref="char:EOLhyphen"/>nance, before the ſaid Members of the Committees, Mayors, head-Officers and Juſtice of the Peace, or any one of them, that the Fines, Pains and Penalties before mentioned may be impoſed and inflicted upon the ſame Offenders, according to the inten<g ref="char:EOLhyphen"/>tion and meaning of this Ordinances. And it is alſo Ordained by the Authority aforeſaid, That the view of any one Iuſtice of the Peace, head-Officer or Member of the Committees afore<g ref="char:EOLhyphen"/>ſaid, or the Oath of one credible Witneſs (which Oath in ſuch caſes they and every one of them are hereby authorized to ad<g ref="char:EOLhyphen"/>miniſter,) ſhall be a ſufficient conviction of any Offender in the caſes before recited; And the ſame Juſtice of the Peace, Major, or other head-Officer or Member of the Committees aforeſaid, have hereby Authority to diſpoſe one Moyety of the Fine paid by vertue of this Ordinance, to the Collectors for the poor of the Liberty or Pariſh where the Offence is committed, and the other Moiety to the perſon or perſons who ſhall diſcover and proſe<g ref="char:EOLhyphen"/>cute the ſaid Offenders. And finally it is Ordained, That all perſons acting any thing by vertue of this Ordinance, ſhall be ſaved harmleſs, and indempnified by Authority of both Houſes of Parliament.</p>
+            <p>Provided always, and it is hereby Declared, That the penalties in this Ordinance expreſſed, ſhall not extend to acquit any per<g ref="char:EOLhyphen"/>ſon or perſons that ſhall Make, Write, Print, Publiſh, Sell or Ut<g ref="char:EOLhyphen"/>ter, or cauſe to be Made, Written, Publiſhed, Sold or Uttered, any Book, Pamphlet, Treatiſe, Ballad, Libel, Sheet or Sheets of News that ſhall contain any Seditious, Treaſonable or Blaſphe<g ref="char:EOLhyphen"/>mous matter, but the Offenders in that kind ſhall be liable to ſuch farther penalties as by the Laws of the Land are provided, or by Authority of Parliament ſhall be judged according to the penalty of ſuch Offences.</p>
+            <closer>
+               <signed>H. Elſynge, Clar. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="9" facs="tcp:117445:5"/>
+            <head>Die Mercurii, <hi>14</hi> Junii, <hi>1643.</hi>
+            </head>
+            <p>VVHereas divers good Orders have been lately made by both Houſes of Parliament, for ſuppreſſing the great late abuſes and frequent diſorders in Printing many falſe forged, ſcandalous, ſeditious, libellous, and unlicenſed Papers, Pamphlets, and Books, to the great defamation of Religion and Government. Which Orders (notwithſtanding the dili<g ref="char:EOLhyphen"/>gence of the Company of Stationers, to put them in full exe<g ref="char:EOLhyphen"/>cution) have taken little or no effect: By reaſon the Bill in pre<g ref="char:EOLhyphen"/>paration for redreſs of the ſaid diſorders, hath hitherto been retarded through the preſent diſtractions, and very many, as well Stationers and Printers, as others of ſundry other Pro<g ref="char:EOLhyphen"/>feſſions not free of the Stationers Company, have taken upon them to ſet up ſundry private Printing Preſſes in corners, and to print, vend, publiſh, and diſperſe Books, Pamphlets and Pa<g ref="char:EOLhyphen"/>pers, in ſuch multitudes, that no induſtry could be ſufficient to diſcover or bring to puniſhment, all the ſeveral abounding De<g ref="char:EOLhyphen"/>linquents; And by reaſon that divers of the Stationers Com<g ref="char:EOLhyphen"/>pany and others being Delinquents (contrary to former Or<g ref="char:EOLhyphen"/>ders, and the conſtant cuſtom uſed among the ſaid Company) have taken liberty to print, vend, and publiſh, the moſt profita<g ref="char:EOLhyphen"/>ble vendible copies of Books, belonging to the Company and other Stationers, eſpecially of ſuch Agents as are imployed in putting the ſaid Orders in Execution, and that by way of re<g ref="char:EOLhyphen"/>venge for giving information againſt them to the Houſes for their Delinquencies in Printing, to the great prejudice of the ſaid Company of Stationers and Agents, and to their diſcou<g ref="char:EOLhyphen"/>ragement in this publique ſervice.</p>
+            <p>It is therefore Ordered by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament, That no Order or Declaration of both, or either Houſe of Parliament ſhall be printed by any, but by order of one or both the ſaid Houſes: Nor other Book, Pamphlet, Paper, nor part of any ſuch Book, Pamphlet, or paper, ſhall from henceforth be printed, bound, ſtitched, or put to ſale by any perſon or perſons whatſoever, unleſs the ſame be firſt approved of and licenſed under the hands of ſuch perſon or perſons, as
+<pb n="10" facs="tcp:117445:6"/> both or either of the ſaid Houſes ſhall appoint for the licenſing of the ſame, and entred in the Regiſter Book of the Company of Stationers, according to ancient cuſtom, and the Printer thereof to put his name thereto. And that no perſon or per<g ref="char:EOLhyphen"/>ſons ſhall hereafter Print, or cauſe to be reprinted any Book or Books, or part of Book, or Books heretofore allow<g ref="char:EOLhyphen"/>ed of and granted to the ſaid company of Stationers for their relief and maintenance of their poor, without the licenſe or conſent of the Maſter, Wardens, and Aſſiſtants of the ſaid company; Nor any Book or Books lawfully licenſed and entred in the Regiſter of the ſaid Company for any particular mem<g ref="char:EOLhyphen"/>ber thereof, without the licenſe and conſent of the owner or owners thereof. Nor yet import any ſuch Book or Books, or part of Book or Books formerly Printed here, from beyond the Seas, upon pain of forfeiting the ſame to the owner or owners of the copies of the ſaid Books, and ſuch further puniſhment as ſhall be thought fit.</p>
+            <p>And the Maſter and Wardens of the ſaid Company, the Gentleman Uſher of the Houſe of Peers, the Sergeant of the Commons Houſe and their Deputies, together with the perſons formerly appointed by the Committee of the Houſe of Com<g ref="char:EOLhyphen"/>mons for Examinations, are hereby authorized and required, from time to time, to make diligent ſearch in all places, where they ſhall think meet, for all unlicenſed Printing Preſſes, and all Preſſes any way imployed in the printing of ſcandalous or un<g ref="char:EOLhyphen"/>licenſed Papers, Pamphlets, Books, or any copies of Books be<g ref="char:EOLhyphen"/>longing to the ſaid Company, or any member thereof, without their approbation and conſents, and to ſeize and carry away ſuch Printing Preſſes, Letters, together with the Nut, Spindle, and other Materials of every ſuch irregular Printer, which they finde ſo miſimployed, unto the common-hal of the ſaid company, there to be defaced and made unſerviceable according to ancient Cuſtom; And likewiſe to make diligent ſearch in all ſuſpected Printing-houſes, Ware-houſes, Shops and other places, for all ſuch ſcandalous and unlicenſed Books, Papers, Pamphlets, and other Books not entred nor ſigned with the Printers name as afore<g ref="char:EOLhyphen"/>ſaid, being printed or reprinted by ſuch as have no lawful in<g ref="char:EOLhyphen"/>tereſt in them, or any way contrary to this Order, and the
+<pb n="11" facs="tcp:117445:6"/> ſame to ſeize and carry away to the ſaid common Hall, there to remain till both or either Houſe of Parliament ſhall diſpoſe thereof: And likewiſe to apprehend all Authors, Prin<g ref="char:EOLhyphen"/>ters, and other perſons whatſoever imployed in compiling, printing, ſtitching, binding, publiſhing and diſperſing of the ſaid ſcandalous unlicenſed and unwarrantable Papers, Books and Pamphlets as aforeſaid; and all thoſe who ſhall reſiſt the ſaid parties in ſearching after them, and to bring them afore either of the Houſes or the Committee of Examinations, that ſo they may receive ſuch further puniſhments, as their offences ſhall demerit, and not to be releaſed until they have given ſatisfacti<g ref="char:EOLhyphen"/>on to the parties imployed in their apprehenſion for their pains and charges, and given ſufficient caution not to offend in like ſort for the future. And all Juſtices of the Peace, Captains, Conſtables and other Officers, are hereby ordered and re<g ref="char:EOLhyphen"/>quired to be ayding and aſſiſting to the foreſaid perſons, in the due execution of all and ſingular the Premiſes, and in the ap<g ref="char:EOLhyphen"/>prehenſion of all offenders againſt the ſame; and in caſe of oppoſition, to break open doors and locks.</p>
+            <p>And it is further Ordered, That this Order be forthwith printed and publiſhed, to the end that notice may be taken thereof, and all Contemners of it left inexcuſable.</p>
+         </div>
+         <div type="order">
+            <head>Die Jovis, <hi>9</hi> Martii, <hi>1642.</hi>
+            </head>
+            <p>IT is this day Ordered by the Commons Houſe of Parlia<g ref="char:EOLhyphen"/>ment, That the Committee for Examinations, or any four of them, have power to appoint ſuch perſons as they think fit, to ſearch in any houſe or place where there is juſt cauſe of ſu<g ref="char:EOLhyphen"/>ſpicion, that Preſſes are kept and employed in the printing of ſcandalous and lying Pamphlets, and that they do demoliſh and take away ſuch Preſſes and their materials, and the Printers Nuts and Spindles which they finde ſo employed, and bring the Maſter-Printers, and Work-men Printers before the ſaid Committee; and that the Committee or any four of them, have power to commit to priſon any of the ſaid Printers, or any other perſons that do contrive, or publikely or privately
+<pb n="12" facs="tcp:117445:7"/> vend, ſell or publiſh any Pamphlet, ſcandalous to His Majeſty or the proceedings of both or either Houſes of Parliament, or that ſhall refuſe to ſuffer any houſes or ſhops to be ſearched, where ſuch Preſſes or Pamphlets as aforeſaid are kept: And that the perſons employed by the ſaid Committee, ſhall have power to ſeize ſuch ſcandalous and lying Pamphlets as they finde upon ſearch, to be in any Shop or Warehouſe, ſold or diſperſed by any perſon whomſoever, and to bring the perſons that ſo kept, publiſhed or ſold the ſame, before the Committee; And that ſuch perſons as the Committee ſhall commit for any of the offences aforeſaid, ſhall not be releaſed till the parties employed for the apprehending of the ſaid perſons, and ſeizing their Preſſes and Materials, be ſatisfied for their pains and char<g ref="char:EOLhyphen"/>ges. And all Juſtices of the peace, Captains, Officers and Con<g ref="char:EOLhyphen"/>ſtables, are required to be aſſiſting in the apprehending of any the perſons aforeſaid, And in ſearching of their Shops, Houſes, and Ware-houſes; And likewiſe all Juſtices of the Peace, Offi<g ref="char:EOLhyphen"/>cers and Conſtables are hereby required from time to time to apprehend ſuch perſons as ſhall publiſh, vend or ſell the ſaid Pam<g ref="char:EOLhyphen"/>phlets. And it is further Ordered, that this Order be forthwith printed and publiſhed to the end that notice may be taken here<g ref="char:EOLhyphen"/>of, that the contemners of this Order may be left inexcuſable for their offence.</p>
+         </div>
+         <div type="order">
+            <head>
+               <hi>13 March, 1642.</hi> At the Committee of the Houſe of Commons for Ex<g ref="char:EOLhyphen"/>aminations.</head>
+            <p>BY vertue of an Order made in the Commons Houſe of Parliament, authorizing this Committee, or any four of them, to appoint ſuch perſons as they ſhall think fit, for the ſei<g ref="char:EOLhyphen"/>zing of, and ſearching for ſcandalous Pamphlets, and to demo<g ref="char:EOLhyphen"/>liſh and take away ſuch Printing-preſſes as ſhall be employed in the Printing of ſuch ſcandalous and lying Pamphlets as by the ſaid Order appeareth. Theſe are therefore to authorize you, <hi>Felix Kingſton, Samuel Man, George Miller, John Bellamy,
+<pb n="13" facs="tcp:117445:7"/> William Lee</hi> Junior, <hi>John Partridge, Chriſtopher Meredith, Robert Dawlman, Matthew Walbanck, Richard Coats, Joſeph Hunſcot, John Raworth,</hi> Stationers of <hi>London,</hi> or any of you, or any of your Deputy or Deputies, to put in execution the ſaid Order of the Houſe of Commons according to the power therein given. And you are hereby required to omit no time, but withal ſpeed, fidelity and diligence, to proceed in putting the ſaid Order in execution, and to require the ayd and aſſi<g ref="char:EOLhyphen"/>ſtance of ſuch perſons as are required by the ſaid Order to aſſiſt the Perſons employed by this Committee in the ſaid ſervice.</p>
+         </div>
+         <div type="act">
+            <head>An Act of Common councel, for the prohibiting of all perſons whatſoever, from crying or putting to ſale about the ſtreets in this City and Liberties, any pam<g ref="char:EOLhyphen"/>phlets, books or papers whatſoever, by way of hawk<g ref="char:EOLhyphen"/>ing to be ſold, and for the puniſhment of the offen<g ref="char:EOLhyphen"/>ders therein, according to the Cuſtom and Law of this City.</head>
+            <p>
+               <hi>Commune Concilium tentum in Camera Guid-hall Civita<g ref="char:EOLhyphen"/>tis <hi>London,</hi> nono die Octobris, <hi>1643.</hi> Annoque Regni Domini noſtri <hi>Caroli,</hi> nunc Regis <hi>Angliae,</hi> &amp;c. deci<g ref="char:EOLhyphen"/>mo nono, coram <hi>Iſaac Pennington</hi> Majore (ſecundo tempore) Civitatis <hi>London, Johan. Wollaſton</hi> Mi<g ref="char:EOLhyphen"/>lite &amp; Aldermanno Majore Civitatis <hi>Londini</hi> electo, <hi>Johan. Glyn,</hi> Armiger. ejuſdem Civitatis Recordatore, <hi>Thoma Atkin, Johan. Warner, Johan. Langham, Will. Gibs, Will. Barkley,</hi> ejuſdem Civitatis Alder<g ref="char:EOLhyphen"/>mannis, &amp; <hi>Johan. Fowke</hi> &amp; <hi>Jacobo Bunce,</hi> Alder<g ref="char:EOLhyphen"/>mannis &amp; Vicecomit' ejuſdem Civitatis, Necnon Majore parte Communariorum de Communi Concilio ejuſdem Civitatis tunc ibidem Aſſemblat.</hi>
+            </p>
+            <p>THis Common Councel taking into their ſeri<g ref="char:EOLhyphen"/>ous conſideration, a complaint made by the Maſter, Wardens, Aſſiſtants and Common<g ref="char:EOLhyphen"/>alty
+<pb n="14" facs="tcp:117445:8"/> of the Stationers, London, againſt a multitude of vagrant perſons, men, women and children, which after the maner of Hawkers, do openly cry about the ſtreets pamphlets and other books, and under colour thereof are found to diſperſe all ſorts of dangerous Libels, to the intolerable diſhonor of the Kings Ma<g ref="char:EOLhyphen"/>jeſty, and of the high Court of Parliament, and the whole Government of this Realm, and this City in particular; And conceiving it very neceſſary by all due means to ſuppreſs the evils growing by ſuch unlaw<g ref="char:EOLhyphen"/>ful ſelling of ſuch Pamphlets &amp; Libels, have thought fit, and do Ordain, That from henceforth the Laws and Cuſtom of this City, which make a forfeiture of the goods that are carryed about the ſtreets by way of Hawking to be ſold; and alſo the Statutes made againſt Rogues and Vagabonds, ſhall be ſtrictly put in execution againſt ſuch vagrant perſons, ſelling as aforeſaid, being petty chapmen within the ſaid Sta<g ref="char:EOLhyphen"/>tutes: And for the more ſure execution of the ſaid Cuſtom and Laws, It is by this Court further Or<g ref="char:EOLhyphen"/>dered, That the Officers of the Chamber, for the offences againſt the Cuſtom and Law of Hawking, and Marſhals of the city, and the Conſtables of eve<g ref="char:EOLhyphen"/>ry precinct within this city, are hereby ſtraightly charged to do their utmoſt duties in their ſeveral places and Offices, in apprehending and bringing before ſome of his Majeſties Juſtices of the peace within this City, all and every ſuch perſon or perſons which ſhall offend in crying, offering or putting to ſale by way of Hawking, any Pamphlets, Books or Papers what<g ref="char:EOLhyphen"/>ſoever as aforeſaid; whereby they may receive ſuch puniſhments, as by the Cuſtom and Laws aforeſaid
+<pb n="15" facs="tcp:117445:8"/> ought to be inflicted upon them. And that for neg<g ref="char:EOLhyphen"/>lect of the ſaid Officers, Conſtables and Marſhals in their duties and places as aforeſaid, informations or indictments, as the caſe ſhall require, ſhall be pre<g ref="char:EOLhyphen"/>ferred againſt them, that they may be puniſhed for their neglect therein according to the Law.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
